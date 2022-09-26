@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8vFbr6uEV1Mf2jhcPKYiIhpOvFHSbE9+h/90V8C2k0YsHS1eoIewmRSOb+yqC544gLrpG7ZtIk2t6ECSP/6KOA==",
+  "success": true,
+  "projectFilePath": "D:\\ravi_workspace\\git repo\\restaurant-management-system\\src\\RMS.API\\RMS.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\C005339\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

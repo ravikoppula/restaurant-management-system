@@ -1,0 +1,17 @@
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\bin\Debug\net6.0\RMS.Infrastructure.deps.json
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\bin\Debug\net6.0\RMS.Infrastructure.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\bin\Debug\net6.0\RMS.Infrastructure.pdb
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\bin\Debug\net6.0\RMS.Application.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\bin\Debug\net6.0\RMS.Domain.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\bin\Debug\net6.0\RMS.Application.pdb
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\bin\Debug\net6.0\RMS.Domain.pdb
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.csproj.AssemblyReference.cache
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.AssemblyInfoInputs.cache
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.AssemblyInfo.cs
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.csproj.CopyComplete
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\refint\RMS.Infrastructure.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\RMS.Infrastructure.pdb
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Infrastructure\obj\Debug\net6.0\ref\RMS.Infrastructure.dll

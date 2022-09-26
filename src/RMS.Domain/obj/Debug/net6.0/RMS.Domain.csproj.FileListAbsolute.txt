@@ -1,0 +1,12 @@
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\bin\Debug\net6.0\RMS.Domain.deps.json
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\bin\Debug\net6.0\RMS.Domain.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\bin\Debug\net6.0\RMS.Domain.pdb
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\RMS.Domain.csproj.AssemblyReference.cache
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\RMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\RMS.Domain.AssemblyInfoInputs.cache
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\RMS.Domain.AssemblyInfo.cs
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\RMS.Domain.csproj.CoreCompileInputs.cache
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\RMS.Domain.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\refint\RMS.Domain.dll
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\RMS.Domain.pdb
+D:\ravi_workspace\git repo\restaurant-management-system\src\RMS.Domain\obj\Debug\net6.0\ref\RMS.Domain.dll
