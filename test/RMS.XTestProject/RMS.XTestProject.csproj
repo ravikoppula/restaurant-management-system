@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\RMS.API\RMS.API.csproj" />
+  </ItemGroup>
+
 </Project>
